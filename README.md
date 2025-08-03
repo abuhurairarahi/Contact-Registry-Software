@@ -41,4 +41,15 @@ Ideal for beginners learning Java, file handling, and basic CRUD operations. Thi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/contact-registry-software.git
+   git clone https://github.com/abuhurairarahi/contact-registry-software.git
+
+---
+
+## 🧑‍💼 About Project Development & Team:
+
+- Project on Structured Programming Language (SPL)
+
+- **Md. Abu Huraira Rahi**
+  BSCSE, United International University **(UIU)**
+- **Sanjana Farhin Astha**
+  BSCSE, United International University **(UIU)**
