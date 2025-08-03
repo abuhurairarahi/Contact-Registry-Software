@@ -39,7 +39,7 @@ Ideal for beginners learning Java, file handling, and basic CRUD operations. Thi
 
 ## 🧑‍💼 About Project Development & Team:
 
-- Project on Structured Programming Language (SPL)
+- Project on Project on Object Oriented Programming (OOP)
 
 - **Md. Abu Huraira Rahi**
   BSCSE, United International University **(UIU)**
