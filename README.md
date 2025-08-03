@@ -27,7 +27,7 @@
 
 - **Language:** Java  
 - **Concepts:** Object-Oriented Programming (OOP), File I/O (optional for data persistence)  
-- **Environment:** Console-based application
+- **Environment:** GUI (Graphics User Interface)
 
 ---
 
